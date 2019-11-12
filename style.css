@@ -1,0 +1,19 @@
+body{background-color: gray;}
+#container{background-color: white; }
+hr{background-color: black; color:black; height: 3px; border:none;}
+#cs{color: white;}
+#img{float: left; margin-left: 100px; margin-top: 25px; background-color: white;}
+.clear-float{float: none;}
+#header{float: left background-color:white;}
+#Hbody{float:left; margin-left: 100px;}
+.clear-float{clear: both;}
+#Forms{margin-top: 5px;  font-size: 25px; margin-left: 470px;}
+caption{font-style: italic;  background-color: black; color:white; padding: 10px;}
+table{width: 90%; margin: auto;}
+table, th, td{border:2px solid black; border-collapse: collapse;}
+table, td{text-align: center;}
+#notice{width: 65%; margin-left:200px;}
+.imp{background-color:silver;}
+#inf1{margin-left:70px; font-size: 17px; padding-top:10px;}
+#inf1 b{margin-left: 140px;}
+#line{border-bottom:2px solid black; height: 25px; width: 90%; margin-left: 67px;}
